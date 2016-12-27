@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="menu_item">
+        <item>咪咕</item>
+        <item>导航</item>
+        <item>查找</item>
+        <item>通讯录</item>
+        <item>设置</item>
+    </string-array>
+    <string name="app_name">SlidingMenuTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

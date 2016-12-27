@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="myblue">#123455</color>
+    <color name="myblue_pressed">#2d4963</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue_line">#102f4c</color>
+    <color name="button_pressed">#d6d6d6</color>
+    <color name="track">#00000000</color>
+</resources>
